@@ -35,6 +35,10 @@ int main(int argc, char *argv[])
 
 ```
 
+```python
+gcc -o progc progc.c -lpigpio -lrt -lpthread
+```
+
 # SNIR 2
 
 ---
