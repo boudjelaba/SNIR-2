@@ -4,6 +4,8 @@ with picamera.PiCamera() as camera:
      camera.start_preview()
      camera.capture('/home/pi/Images/photo.jpg')
      camera.stop_preview()
+```
+
 
 
 http://abyz.me.uk/rpi/pigpio/index.html
