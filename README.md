@@ -1,4 +1,28 @@
 ```python
+import numpy as np
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+t_v=np.linspace(0,1,200)
+sin_v=np.sin(2*np.pi*10*t_v)
+cos_v=1.5*np.cos(2*np.pi*10*t_v)
+
+data=np.zeros((len(t_v),3))
+data[:,0]=t_v
+data[:,1]=sin_v
+data[:,2]=cos_v
+
+plt.figure()
+plt.plot(t_v,sin_v)
+plt.plot(t_v,cos_v)
+plt.grid()
+plt.show()
+
+np.savetxt("sin_cos_latex.csv",data,delimiter=",",header="t,sin,cos",comments="")
+```
+
+
+```python
 import picamera
 with picamera.PiCamera() as camera:
      camera.start_preview()
