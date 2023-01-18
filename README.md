@@ -1,3 +1,39 @@
+```python
+# Lecture du fichier et courbe
+import csv
+
+def lecture_Exo1(fichier, sep, n) : 
+    file = open( fichier, "r")
+    reader = csv.reader(file, delimiter = sep)
+    col = []
+    for row in reader:
+        try:
+            sep_decimal = row[n].replace(",", ".")
+            col.append(float(sep_decimal))
+        except:
+            pass
+    file.close()
+    return col
+
+# On récupère les deux dernières colonnes (2ème et 3ème) du fichier
+x = lecture_Exo1("Exo1.csv", ",", 1)
+y = lecture_Exo1("Exo1.csv", ",", 2)
+print("Titre 2 = ", x)
+print("Titre 3 = ", y)
+
+# On trace la courbe demandée
+import matplotlib.pyplot as plt
+%matplotlib inline
+plt.figure()
+plt.plot(x, y, lw=2)
+
+plt.ylabel('[A]')
+plt.title('Courant')
+plt.grid(True)
+plt.show()
+
+```
+
 https://www.instructables.com/NEO-7M-U-BLOX-GPS-Module-Experiment/
 
 
