@@ -1,3 +1,5 @@
+https://www.engineersgarage.com/micropython-esp32-microsd-card/
+
 
 ```python
 # import EAN13 from barcode module
