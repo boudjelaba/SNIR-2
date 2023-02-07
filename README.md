@@ -1,3 +1,11 @@
+## Google Sheet
+
+https://iotdesignpro.com/articles/esp32-data-logging-to-google-sheets-with-google-scripts
+
+https://www.youtube.com/watch?v=iWWAIPlV9rg
+
+---
+
 https://www.engineersgarage.com/micropython-esp32-microsd-card/
 
 
