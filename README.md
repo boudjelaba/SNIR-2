@@ -4,6 +4,16 @@ https://iotdesignpro.com/articles/esp32-data-logging-to-google-sheets-with-googl
 
 https://www.youtube.com/watch?v=iWWAIPlV9rg
 
+### Nouveaux
+
+https://www.youtube.com/watch?v=KPOFncRDiHQ
+
+https://www.youtube.com/watch?v=0LoeaewIAdY
+
+https://www.youtube.com/watch?v=wQGqydQUwRw
+
+https://www.youtube.com/watch?v=ON7neIqPC2A
+
 ---
 
 https://www.engineersgarage.com/micropython-esp32-microsd-card/
