@@ -15,6 +15,9 @@ https://www.youtube.com/watch?v=wQGqydQUwRw
 https://www.youtube.com/watch?v=ON7neIqPC2A
 
 ---
+https://www.youtube.com/watch?v=aO92B-K4TnQ
+
+---
 
 https://www.engineersgarage.com/micropython-esp32-microsd-card/
 
