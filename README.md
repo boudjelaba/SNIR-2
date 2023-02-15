@@ -1,3 +1,7 @@
+https://draeger-it.blog/arduino-lektion-114-mini-ethernetshield-enc28j60/
+
+---
+
 ```cpp
 const int pinBouton = 32;
 
