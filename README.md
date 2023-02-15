@@ -1,3 +1,27 @@
+```cpp
+const int pinBouton = 32;
+
+int etatBouton = 0;
+
+void setup() {
+  // .............
+  pinMode(pinBouton, INPUT_PULLUP);
+}
+
+void loop() {
+  etatBouton = digitalRead(pinBouton);
+  Serial.println(etatBouton);
+
+  if (etatBouton == LOW) {
+    // Action 1
+    } else {
+      // Action 2
+    }
+}
+
+
+---
+
 https://www.youtube.com/watch?v=aO92B-K4TnQ
 
 ## Google Sheet
