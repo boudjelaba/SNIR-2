@@ -1,3 +1,11 @@
+## UML :
+
+https://www.youtube.com/watch?v=UI6lqHOVHic
+
+https://www.youtube.com/watch?v=WnMQ8HlmeXc
+
+---
+
 https://draeger-it.blog/arduino-lektion-114-mini-ethernetshield-enc28j60/
 
 ---
