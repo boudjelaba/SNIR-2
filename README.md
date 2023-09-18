@@ -31,6 +31,7 @@ my_code = EAN13(number, writer=ImageWriter())
   
 # Our barcode is ready. Let's save it.
 my_code.save("new_code1")
+```
 
 ---
 
