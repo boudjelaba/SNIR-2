@@ -1,3 +1,12 @@
+## XBEE
+
+https://www.youtube.com/watch?v=a6W4kspM6NQ
+
+https://www.youtube.com/watch?v=C6qsuudji_E
+
+https://www.youtube.com/watch?v=sq9Twvs6N-0
+
+___
 ## UML :
 
 https://www.youtube.com/watch?v=m_MQYyJpIjg
