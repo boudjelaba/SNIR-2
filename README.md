@@ -1,4 +1,4 @@
-`cpp
+```cpp
 #include <csignal>
 #include <iostream>
 #include <pigpio.h>
@@ -29,7 +29,7 @@ int main() {
    std::cout << std::endl;
    return 0;
 }
-`
+```
 
 ---
 ---
