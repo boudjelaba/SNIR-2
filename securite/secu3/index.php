@@ -1,1 +1,0 @@
-<?= realpath('index.php'); ?>
