@@ -1,0 +1,13 @@
+htaccess
+htpasswd
+
+* bcrypt en php
+	$text = 'mon mot de passe';
+	$text_hashed = password_hash($text, PASSWORD_BCRYPT);
+
+* bcrypt en python
+	import bcrypt
+	import random
+
+	password = b"mon mot de passe"
+	print bcrypt.hashpw(password,bcrypt.gensalt())

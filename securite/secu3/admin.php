@@ -1,0 +1,1 @@
+Le contenu du fichier admin.php
